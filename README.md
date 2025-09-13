@@ -2,12 +2,11 @@
 
 ## 🔖 Objetivo do projeto
 
-<p style="text-align: justify">Neste projeto orientado pelo professor de Desenvolvimento de Sistemas, foi passado o objetivo de desenvolver uma **aplicação em linguagem Java** que realizasse as 4 operações básicas de banco de dados (O CRUD) e que criasse uma tabela em um banco de dados do qual o usuário pudesse escolher.<p/>
+<p style="text-align: justify">Neste projeto orientado pelo professor de Desenvolvimento de Sistemas, foi passado o objetivo de desenvolver uma <strong>aplicação em linguagem Java</strong> que realizasse as 4 operações básicas de banco de dados (O CRUD) e que criasse uma tabela em um banco de dados do qual o usuário pudesse escolher.<p/>
 
 ## 💡 Tecnologias utilizadas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" width="100"/>
